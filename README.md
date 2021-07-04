@@ -20,7 +20,8 @@ cp -v ~/Downloads/qutebrowser-userscripts/live-reload.sh ~/.local/share/qutebrow
 cat ~/.local/share/qutebrowser/userscripts/live-reload.sh
 ```
 
-**NOTE**: More in depth information can be found as comments within the scripts themselves
+
+**NOTE**: In depth installation instructions, usage, etc can be found as code comments within each individual script. 
 
 ## live-reload.sh
 
